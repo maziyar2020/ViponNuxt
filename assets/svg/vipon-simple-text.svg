@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="300px" height="300px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 300 300"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    /* .fil0 {fill:black} */
+    .r1{fill:#c93;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wr2 8s infinite; animation-delay: 0s}
+	 @keyframes wr2 {
+     0%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     3.34%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     10%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     23.33%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     30%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     33%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     36.34%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     43%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     56.33%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     63%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     66%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     66.34%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+     76%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     89.33%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     96%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+     100%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+ 	}
+    .r2{fill:#8f6d28;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wr1 8s infinite; animation-delay: 0s}
+	 @keyframes wr1 {
+     0%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     1.66%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     6.66%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     26.66%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     31.66%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     33%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     34.66%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     39.66%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     59.66%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     64.66%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     66%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     67.66%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+     72.66%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     92.66%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     97.66%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+     100%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+ 	}
+    .r3{fill:#c93;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wr3 8s infinite; animation-delay: 0s}
+	 @keyframes wr3 {
+     0%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     5%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     28.33%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     33%{transform:translateY(-40px); opacity:0.2; fill:#cc9933;}
+     38%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     61.33%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     66%{transform:translateY(-40px); opacity:0.2; fill:#33CC33;}
+     71%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     94.33%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     100%{transform:translateY(-40px); opacity:0.2; fill:#0078cd;}
+ 	}
+    .l1{fill:#c93;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: w2 8s infinite; animation-delay: 0s}
+	 @keyframes w2 {
+     0%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     3.34%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     10%{transform:translateY(0px); opacity:1; fill:#8f6d28;}
+     23.33%{transform:translateY(0px); opacity:1; fill:#8f6d28;}
+     30%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     33%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     36.34%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     43%{transform:translateY(0px); opacity:1; fill:#008f33;}
+     56.33%{transform:translateY(0px); opacity:1; fill:#008f33;}
+     63%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     66%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+     66.34%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+     76%{transform:translateY(0px); opacity:1; fill:#00468f;}
+     89.33%{transform:translateY(0px); opacity:1; fill:#00468f;}
+     96%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+     100%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+ 	}
+    .l2{fill:#8f6d28;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: w1 8s infinite; animation-delay: 0s}
+	 @keyframes w1 {
+     0%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     1.66%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     6.66%{transform:translateY(0px); opacity:1; fill:#8f6d28;}
+     26.66%{transform:translateY(0px); opacity:1; fill:#8f6d28;}
+     31.66%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     33%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     34.66%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     39.66%{transform:translateY(0px); opacity:1; fill:#008f33;}
+     59.66%{transform:translateY(0px); opacity:1; fill:#008f33;}
+     64.66%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     66%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     67.66%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+     72.66%{transform:translateY(0px); opacity:1; fill:#00468f;}
+     92.66%{transform:translateY(0px); opacity:1; fill:#00468f;}
+     97.66%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+     100%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+ 	}
+    .l3{fill:#c93;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: w3 8s infinite; animation-delay: 0s}
+	 @keyframes w3 {
+     0%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     5%{transform:translateY(0px); opacity:1; fill:#8f6d28;}
+     28.33%{transform:translateY(0px); opacity:1; fill:#8f6d28;}
+     33%{transform:translateY(-40px); opacity:0.2; fill:#8f6d28;}
+     38%{transform:translateY(0px); opacity:1; fill:#008f33;}
+     61.33%{transform:translateY(0px); opacity:1; fill:#008f33;}
+     66%{transform:translateY(-40px); opacity:0.2; fill:#008f33;}
+     71%{transform:translateY(0px); opacity:1; fill:#00468f;}
+     94.33%{transform:translateY(0px); opacity:1; fill:#00468f;}
+     100%{transform:translateY(-40px); opacity:0.2; fill:#00468f;}
+ 	}
+    .pay{fill:#fff;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wp2 8s infinite; animation-delay: 0s}
+	 @keyframes wp2 {
+     66%{transform:translateY(10px); opacity:0.2; fill:#0078cd;}
+     74%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     92%{transform:translateY(0px); opacity:1; fill:#0078cd;}
+     100%{transform:translateY(10px); opacity:0.2; fill:#0078cd;}
+     }
+    .vou{fill:#fff;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wv2 8s infinite; animation-delay: 0s}
+	 @keyframes wv2 {
+     33%{transform:translateY(10px); opacity:0.2; fill:#33CC33;}
+     41%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     58%{transform:translateY(0px); opacity:1; fill:#33CC33;}
+     66%{transform:translateY(10px); opacity:0.2; fill:#33CC33;}
+     }
+    .cus{fill:#fff;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wc2 8s infinite; animation-delay: 0s}
+	 @keyframes wc2 {
+     0%{transform:translateY(10px); opacity:0.2; fill:#cc9933;}
+     8%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     25%{transform:translateY(0px); opacity:1; fill:#cc9933;}
+     33%{transform:translateY(10px); opacity:0.2; fill:#cc9933;}
+     }
+    .fil3 {fill:#33CC33}
+    .vipon {fill:#fff;stroke:#000000;stroke-opacity:0;opacity:0.2;animation: wvv2 6s infinite; animation-delay: 0s}
+	 @keyframes wvv2 {
+     0%{transform:translateY(px); opacity:0.2; fill:#fff;}
+     8%{transform:translateY(0px); opacity:1; fill:#fff;}
+     25%{transform:translateY(0px); opacity:1; fill:#fff;}
+     33%{transform:translateY(0px); opacity:0.2; fill:#fff;}
+     33%{transform:translateY(0px); opacity:0.2; fill:#fff;}
+     41%{transform:translateY(0px); opacity:1; fill:#fff;}
+     58%{transform:translateY(0px); opacity:1; fill:#fff;}
+     66%{transform:translateY(0px); opacity:0.2; fill:#fff;}
+     66%{transform:translateY(0px); opacity:0.2; fill:#fff;}
+     74%{transform:translateY(0px); opacity:1; fill:#fff;}
+     92%{transform:translateY(0px); opacity:1; fill:#fff;}
+     100%{transform:translateY(0px); opacity:0.2; fill:#fff;}
+     }
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="vipon" d="M113.16 201.91l-13.74 28.66 -7.16 0 -13.37 -28.66 7.81 0 9.28 21.75 9.37 -21.75 7.81 0zm8.62 28.58l-7.64 0 0 -28.58 7.64 0 0 28.58zm33.24 -19.11c0,2.53 -0.97,4.68 -2.93,6.47 -1.95,1.77 -4.28,2.67 -6.98,2.67l-12.17 0 0 9.97 -7.03 0 0 -28.58 19.59 0c3.05,0 5.46,1.05 7.23,3.15 1.53,1.81 2.29,3.93 2.29,6.32zm-7.97 -0.37c0,-1.22 -0.51,-2.23 -1.51,-3.05 -1.01,-0.81 -2.17,-1.22 -3.48,-1.22l-9.12 0 0 8.83 9.32 0c1.34,0 2.47,-0.44 3.4,-1.3 0.93,-0.87 1.39,-1.96 1.39,-3.26zm41.95 5.15c0,5.57 -1.54,9.56 -4.62,11.96 -2.51,1.94 -6.16,2.9 -10.96,2.9 -5.31,0 -9.24,-1.11 -11.78,-3.35 -2.78,-2.46 -4.17,-6.4 -4.17,-11.83 0,-4.45 1.24,-7.92 3.73,-10.4 2.69,-2.71 6.73,-4.06 12.1,-4.06 5.91,0 10.08,1.3 12.51,3.89 2.12,2.29 3.19,5.92 3.19,10.89zm-7.28 -0.16c0,-2.82 -0.67,-5.06 -2,-6.72 -1.5,-1.86 -3.72,-2.79 -6.67,-2.79 -2.89,0 -5.07,1 -6.54,2.99 -1.23,1.67 -1.84,3.84 -1.84,6.52 0,3.09 0.49,5.37 1.47,6.84 1.37,2.05 3.89,3.07 7.57,3.07 3.1,0 5.28,-0.99 6.54,-2.99 0.98,-1.55 1.47,-3.86 1.47,-6.92zm40.27 14.49l-9.07 0 -13.82 -21.13 0 21.13 -6.83 0 0 -28.58 9.2 0 13.57 21.43 0 -21.43 6.95 0 0 28.58z"/>
+ </g>
+</svg>
